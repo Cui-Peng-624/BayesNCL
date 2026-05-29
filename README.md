@@ -39,3 +39,18 @@ python main_eval.py \
   data.dataset=cifar100 \
   resume_from_checkpoint=/path/to/pretrained.ckpt
 ```
+
+---
+
+## Citation
+```
+@misc{cui2026bayesiangatednonnegativecontrastive,
+      title={Bayesian Gated Non-Negative Contrastive Learning}, 
+      author={Peng Cui and Jiahao Zhang and Lijie Hu},
+      year={2026},
+      eprint={2605.28441},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2605.28441}, 
+}
+```
